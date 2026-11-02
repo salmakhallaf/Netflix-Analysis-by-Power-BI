@@ -33,3 +33,7 @@ This project analyzes Netflix content using Power BI to uncover insights about m
 
 ## Author
 Salma Ahmed Mohamed
+(team 5)
+
+##Dashboard
+Dashboard.jpeg
